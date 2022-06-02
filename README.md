@@ -8,13 +8,13 @@ Nombre del profesor: Darwin Omar Alulema Flores
 
 Objetivos:
 
-Objetivo General: Adquirir el dominio del tema tratado para poder dar solucion a los problemas estipulados en el capítulo 1 y 2 del libro de Floyd
+Objetivo General: Comprender la relacion que existe entre los conceptos de electricidad y conocer de donde viene cada formula empleada en estos capitulos del libro de Floyd.
 
 Objetivos Específicos: 
 
-Usar de manera adecuada las fórmulas de la ley de Ohm para dar solucion a los problemas planteados en el libro mencionado anteriormente.
+Aplicar de una manera ordenada las formulas para la obtencion de resultados.
 
-Determinar con ayuda de cálculos matemáticos la representación de los números en notación científica.
+Implementar de manera adecuada estas formulas para la obtencion de resultados en los problemas planteados.
 
 Adquirir los conocimientos necesarios para saber que formula o procedimiento usar para dar solucion a los problemas descritos en el libro de Floyd.
 
@@ -22,7 +22,7 @@ Márco teórico:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/Mapa.jpeg)
 
-ASA
+![](
 
 EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
@@ -56,9 +56,10 @@ El circuito que posee más corriente es el tercero (literal c). El circuito que 
 ![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/12.png)
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta
+
+
 Expresa una relación lineal ya que el voltaje y la corriente son directamente proporcionales.
 
-![](
 
 16. Determine la corriente en cada caso:
 
@@ -109,6 +110,10 @@ Seccion 2
 Video
 
 Conclusiones
+
+Al lograr comprender la relacion que existe entre los conceptos de electricidad y conocer de donde viene cada formula, se nos facilita la resolucion de los ejercicios planteados.
+
+Logramos determinar cuanta energia puede siministrar una pila antes de convertir su energia quimica en energia electrica, ademas, como hay cierta cantidad de energia que se pierde en forma de calor y como puede bajar la eficiencia .
 
 Bibliografias
 
