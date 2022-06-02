@@ -107,7 +107,81 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
 Seccion 2
 
+2. Demuestre que hay 3.6〖X10〗^6 joules en un kilowatt-hora
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%202.png)
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%204.png)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%206.png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%208.png)
+
+10. Convierta las siguientes cantidades en watts:
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2010.png)
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2012.png)
+
+14. Convierta 5〖X10〗^6 watts-minutos en kWh.
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2014.png)
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2016.png)
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2018.png)
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2020.png)
+
+22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2022.png)
+
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2024.png)
+
+26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2026.png)
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2028.png)
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2030.png)
+
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2032.png)
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2034.png)
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/el%2036.png)
+
 Video
+
+
 
 Conclusiones
 
