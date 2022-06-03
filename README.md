@@ -22,7 +22,7 @@ Márco teórico:
 
 ![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/Mapa.jpeg)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-2/blob/main/mapa%202.000.png)
 
 EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
